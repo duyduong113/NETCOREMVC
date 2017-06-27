@@ -1,0 +1,15 @@
+c:\users\duong\documents\visual studio 2017\Projects\NERCOREMVC\web\bin\Debug\netcoreapp1.1\web.deps.json
+c:\users\duong\documents\visual studio 2017\Projects\NERCOREMVC\web\bin\Debug\netcoreapp1.1\web.runtimeconfig.json
+c:\users\duong\documents\visual studio 2017\Projects\NERCOREMVC\web\bin\Debug\netcoreapp1.1\web.runtimeconfig.dev.json
+c:\users\duong\documents\visual studio 2017\Projects\NERCOREMVC\web\bin\Debug\netcoreapp1.1\web.dll
+c:\users\duong\documents\visual studio 2017\Projects\NERCOREMVC\web\obj\Debug\netcoreapp1.1\web.csprojResolveAssemblyReference.cache
+c:\users\duong\documents\visual studio 2017\Projects\NERCOREMVC\web\obj\Debug\netcoreapp1.1\web.AssemblyInfo.cs
+c:\users\duong\documents\visual studio 2017\Projects\NERCOREMVC\web\bin\Debug\netcoreapp1.1\web.pdb
+c:\users\duong\documents\visual studio 2017\Projects\NERCOREMVC\web\obj\Debug\netcoreapp1.1\web.dll
+c:\users\duong\documents\visual studio 2017\Projects\NERCOREMVC\web\obj\Debug\netcoreapp1.1\web.pdb
+C:\Users\DUONG\documents\visual studio 2017\Projects\NERCOREMVC\web\bin\Debug\netcoreapp1.1\Core.dll
+C:\Users\DUONG\documents\visual studio 2017\Projects\NERCOREMVC\web\bin\Debug\netcoreapp1.1\Data.dll
+C:\Users\DUONG\documents\visual studio 2017\Projects\NERCOREMVC\web\bin\Debug\netcoreapp1.1\Entities.dll
+C:\Users\DUONG\documents\visual studio 2017\Projects\NERCOREMVC\web\bin\Debug\netcoreapp1.1\Core.pdb
+C:\Users\DUONG\documents\visual studio 2017\Projects\NERCOREMVC\web\bin\Debug\netcoreapp1.1\Data.pdb
+C:\Users\DUONG\documents\visual studio 2017\Projects\NERCOREMVC\web\bin\Debug\netcoreapp1.1\Entities.pdb

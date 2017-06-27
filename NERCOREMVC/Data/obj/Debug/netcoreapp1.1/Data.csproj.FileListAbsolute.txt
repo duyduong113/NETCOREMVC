@@ -1,0 +1,11 @@
+c:\users\duong\documents\visual studio 2017\Projects\NERCOREMVC\Data\bin\Debug\netcoreapp1.1\Data.deps.json
+c:\users\duong\documents\visual studio 2017\Projects\NERCOREMVC\Data\bin\Debug\netcoreapp1.1\Data.dll
+c:\users\duong\documents\visual studio 2017\Projects\NERCOREMVC\Data\obj\Debug\netcoreapp1.1\Data.csprojResolveAssemblyReference.cache
+c:\users\duong\documents\visual studio 2017\Projects\NERCOREMVC\Data\obj\Debug\netcoreapp1.1\Data.AssemblyInfo.cs
+C:\Users\DUONG\documents\visual studio 2017\Projects\NERCOREMVC\Data\bin\Debug\netcoreapp1.1\Data.pdb
+C:\Users\DUONG\documents\visual studio 2017\Projects\NERCOREMVC\Data\bin\Debug\netcoreapp1.1\Core.dll
+C:\Users\DUONG\documents\visual studio 2017\Projects\NERCOREMVC\Data\bin\Debug\netcoreapp1.1\Entities.dll
+C:\Users\DUONG\documents\visual studio 2017\Projects\NERCOREMVC\Data\bin\Debug\netcoreapp1.1\Core.pdb
+C:\Users\DUONG\documents\visual studio 2017\Projects\NERCOREMVC\Data\bin\Debug\netcoreapp1.1\Entities.pdb
+C:\Users\DUONG\documents\visual studio 2017\Projects\NERCOREMVC\Data\obj\Debug\netcoreapp1.1\Data.dll
+C:\Users\DUONG\documents\visual studio 2017\Projects\NERCOREMVC\Data\obj\Debug\netcoreapp1.1\Data.pdb

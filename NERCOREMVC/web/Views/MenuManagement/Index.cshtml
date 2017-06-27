@@ -1,0 +1,393 @@
+@model IEnumerable<Entities.Menu>
+
+
+    @section breadcrumb{
+        <ul class="page-breadcrumb breadcrumb">
+            <li>
+                <a href="/">Home</a>
+                <i class="fa fa-circle"></i>
+            </li>
+            <li>
+                <span>Menu Management</span>
+            </li>
+        </ul>
+    }
+
+    <div class="row">
+        <div class="col-md-12">
+            <form class="form-horizontal form-row-seperated" action="#">
+                <div class="portlet">
+                    <div class="portlet-title">
+                        <div class="caption">
+                            @*<i class="fa fa-shopping-cart"></i>Menu*@
+                        </div>
+                        <div class="actions btn-set">
+                            <button type="button" name="back" class="btn btn-secondary-outline">
+                                <i class="fa fa-angle-left"></i> Back
+                            </button>
+                            <button class="btn btn-secondary-outline">
+                                <i class="fa fa-reply"></i> Reset
+                            </button>
+                            <button class="btn btn-success">
+                                <i class="fa fa-check"></i> Save
+                            </button>
+                            <button class="btn btn-success">
+                                <i class="fa fa-check-circle"></i> Save & Continue Edit
+                            </button>
+                            <div class="btn-group">
+                                <a class="btn btn-success dropdown-toggle" href="javascript:;" data-toggle="dropdown">
+                                    <i class="fa fa-share"></i> More
+                                    <i class="fa fa-angle-down"></i>
+                                </a>
+                                <ul class="dropdown-menu pull-right">
+                                    <li>
+                                        <a href="javascript:;"> Duplicate </a>
+                                    </li>
+                                    <li>
+                                        <a href="javascript:;"> Delete </a>
+                                    </li>
+                                    <li class="dropdown-divider"> </li>
+                                    <li>
+                                        <a href="javascript:;"> Print </a>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="portlet-body">
+                        <div class="tabbable-bordered">
+                            <ul class="nav nav-tabs">
+                                <li class="active">
+                                    <a href="#tab_1" data-toggle="tab"> Menu List </a>
+                                </li>
+                                <li>
+                                    <a href="#tab_2" data-toggle="tab"> Edit </a>
+                                </li>
+
+                            </ul>
+                            <div class="tab-content">
+                                <div class="tab-pane active" id="tab_1">
+                                    <div class="form-body">
+                                        <div class="table-toolbar">
+                                            <div class="row">
+                                                <div class="col-md-6">
+                                                    <div class="btn-group">
+                                                        <button id="sample_editable_1_new" class="btn sbold green">
+                                                            Add New
+                                                            <i class="fa fa-plus"></i>
+                                                        </button>
+                                                    </div>
+                                                </div>
+                                                <div class="col-md-6">
+                                                    <div class="btn-group pull-right">
+                                                        <button class="btn green  btn-outline dropdown-toggle" data-toggle="dropdown">
+                                                            Tools
+                                                            <i class="fa fa-angle-down"></i>
+                                                        </button>
+                                                        <ul class="dropdown-menu pull-right">
+                                                            <li>
+                                                                <a href="javascript:;">
+                                                                    <i class="fa fa-print"></i> Print
+                                                                </a>
+                                                            </li>
+                                                            <li>
+                                                                <a href="javascript:;">
+                                                                    <i class="fa fa-file-pdf-o"></i> Save as PDF
+                                                                </a>
+                                                            </li>
+                                                            <li>
+                                                                <a href="javascript:;">
+                                                                    <i class="fa fa-file-excel-o"></i> Export to Excel
+                                                                </a>
+                                                            </li>
+                                                        </ul>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <table class="table table-striped table-bordered table-hover table-checkable order-column" id="sample_1">
+                                            <thead>
+                                                <tr>
+                                                    <th>
+                                                        <label class="mt-checkbox mt-checkbox-single mt-checkbox-outline">
+                                                            <input type="checkbox" class="group-checkable" data-set="#sample_1 .checkboxes" />
+                                                            <span></span>
+                                                        </label>
+                                                    </th>
+                                                    <th> ID # </th>
+                                                    <th> Title </th>
+                                                    <th> Cust. Name </th>
+                                                    <th> Cust. Email </th>
+                                                    <th> Date/Time </th>
+                                                    <th> Assigned To </th>
+                                                    <th> Status </th>
+                                                </tr>
+                                            </thead>
+                                            <tbody>
+                                                <tr class="odd gradeX">
+                                                    <td>
+                                                        <label class="mt-checkbox mt-checkbox-single mt-checkbox-outline">
+                                                            <input type="checkbox" class="checkboxes" value="1" />
+                                                            <span></span>
+                                                        </label>
+                                                    </td>
+                                                    <td>
+                                                        <a href="app_ticket_details.html">1123</a>
+                                                    </td>
+                                                    <td>
+                                                        <a href="app_ticket_details.html">Changing Colors</a>
+                                                    </td>
+                                                    <td> Jane </td>
+                                                    <td>
+                                                        <a href="mailto:customer@gmail.com"> customer@gmail.com </a>
+                                                    </td>
+                                                    <td class="center"> 10/12/15 1:45pm </td>
+                                                    <td> Hugh Jackman </td>
+                                                    <td>
+                                                        <span class="label label-sm label-warning"> New </span>
+                                                    </td>
+                                                </tr>
+                                                <tr class="odd gradeX">
+                                                    <td>
+                                                        <label class="mt-checkbox mt-checkbox-single mt-checkbox-outline">
+                                                            <input type="checkbox" class="checkboxes" value="1" />
+                                                            <span></span>
+                                                        </label>
+                                                    </td>
+                                                    <td>
+                                                        <a href="app_ticket_details.html">1134</a>
+                                                    </td>
+                                                    <td>
+                                                        <a href="app_ticket_details.html">Modals popup customization</a>
+                                                    </td>
+                                                    <td> Randy </td>
+                                                    <td>
+                                                        <a href="mailto:customer@gmail.com"> customer@gmail.com </a>
+                                                    </td>
+                                                    <td class="center"> 10/12/15 1:45pm </td>
+                                                    <td> Marcus Doe </td>
+                                                    <td>
+                                                        <span class="label label-sm label-info"> Processed </span>
+                                                    </td>
+                                                </tr>
+                                                <tr class="odd gradeX">
+                                                    <td>
+                                                        <label class="mt-checkbox mt-checkbox-single mt-checkbox-outline">
+                                                            <input type="checkbox" class="checkboxes" value="1" />
+                                                            <span></span>
+                                                        </label>
+                                                    </td>
+                                                    <td>
+                                                        <a href="app_ticket_details.html">1144</a>
+                                                    </td>
+                                                    <td>
+                                                        <a href="app_ticket_details.html">Form Input styling</a>
+                                                    </td>
+                                                    <td> Samantha </td>
+                                                    <td>
+                                                        <a href="mailto:customer@gmail.com"> customer@gmail.com </a>
+                                                    </td>
+                                                    <td class="center"> 10/12/15 1:45pm </td>
+                                                    <td> Marcus Doe </td>
+                                                    <td>
+                                                        <span class="label label-sm label-success"> Completed </span>
+                                                    </td>
+                                                </tr>
+                                                <tr class="odd gradeX">
+                                                    <td>
+                                                        <label class="mt-checkbox mt-checkbox-single mt-checkbox-outline">
+                                                            <input type="checkbox" class="checkboxes" value="1" />
+                                                            <span></span>
+                                                        </label>
+                                                    </td>
+                                                    <td>
+                                                        <a href="app_ticket_details.html">1243</a>
+                                                    </td>
+                                                    <td>
+                                                        <a href="app_ticket_details.html">Counter skipping numbers</a>
+                                                    </td>
+                                                    <td> Daniel </td>
+                                                    <td>
+                                                        <a href="mailto:customer@gmail.com"> customer@gmail.com </a>
+                                                    </td>
+                                                    <td class="center"> 10/12/15 1:45pm </td>
+                                                    <td> Marcus Doe </td>
+                                                    <td>
+                                                        <span class="label label-sm label-default"> Pending </span>
+                                                    </td>
+                                                </tr>
+                                                <tr class="odd gradeX">
+                                                    <td>
+                                                        <label class="mt-checkbox mt-checkbox-single mt-checkbox-outline">
+                                                            <input type="checkbox" class="checkboxes" value="1" />
+                                                            <span></span>
+                                                        </label>
+                                                    </td>
+                                                    <td>
+                                                        <a href="app_ticket_details.html">1276</a>
+                                                    </td>
+                                                    <td>
+                                                        <a href="app_ticket_details.html">Menu not working</a>
+                                                    </td>
+                                                    <td> Billy </td>
+                                                    <td>
+                                                        <a href="mailto:customer@gmail.com"> customer@gmail.com </a>
+                                                    </td>
+                                                    <td class="center"> 10/12/15 1:45pm </td>
+                                                    <td> Hugh Jackman </td>
+                                                    <td>
+                                                        <span class="label label-sm label-default"> Pending </span>
+                                                    </td>
+                                                </tr>
+                                                <tr class="odd gradeX">
+                                                    <td>
+                                                        <label class="mt-checkbox mt-checkbox-single mt-checkbox-outline">
+                                                            <input type="checkbox" class="checkboxes" value="1" />
+                                                            <span></span>
+                                                        </label>
+                                                    </td>
+                                                    <td>
+                                                        <a href="app_ticket_details.html">1345</a>
+                                                    </td>
+                                                    <td>
+                                                        <a href="app_ticket_details.html">Changing Colors</a>
+                                                    </td>
+                                                    <td> Jane </td>
+                                                    <td>
+                                                        <a href="mailto:customer@gmail.com"> customer@gmail.com </a>
+                                                    </td>
+                                                    <td class="center"> 10/12/15 1:45pm </td>
+                                                    <td> Hugh Jackman </td>
+                                                    <td>
+                                                        <span class="label label-sm label-warning"> New </span>
+                                                    </td>
+                                                </tr>
+                                                <tr class="odd gradeX">
+                                                    <td>
+                                                        <label class="mt-checkbox mt-checkbox-single mt-checkbox-outline">
+                                                            <input type="checkbox" class="checkboxes" value="1" />
+                                                            <span></span>
+                                                        </label>
+                                                    </td>
+                                                    <td>
+                                                        <a href="app_ticket_details.html">1354</a>
+                                                    </td>
+                                                    <td>
+                                                        <a href="app_ticket_details.html">Modals popup customization</a>
+                                                    </td>
+                                                    <td> Randy </td>
+                                                    <td>
+                                                        <a href="mailto:customer@gmail.com"> customer@gmail.com </a>
+                                                    </td>
+                                                    <td class="center"> 10/12/15 1:45pm </td>
+                                                    <td> Marcus Doe </td>
+                                                    <td>
+                                                        <span class="label label-sm label-default"> Pending </span>
+                                                    </td>
+                                                </tr>
+                                                <tr class="odd gradeX">
+                                                    <td>
+                                                        <label class="mt-checkbox mt-checkbox-single mt-checkbox-outline">
+                                                            <input type="checkbox" class="checkboxes" value="1" />
+                                                            <span></span>
+                                                        </label>
+                                                    </td>
+                                                    <td>
+                                                        <a href="app_ticket_details.html">1365</a>
+                                                    </td>
+                                                    <td>
+                                                        <a href="app_ticket_details.html">Form Input styling</a>
+                                                    </td>
+                                                    <td> Samantha </td>
+                                                    <td>
+                                                        <a href="mailto:customer@gmail.com"> customer@gmail.com </a>
+                                                    </td>
+                                                    <td class="center"> 10/12/15 1:45pm </td>
+                                                    <td> Marcus Doe </td>
+                                                    <td>
+                                                        <span class="label label-sm label-success"> Completed </span>
+                                                    </td>
+                                                </tr>
+                                                <tr class="odd gradeX">
+                                                    <td>
+                                                        <label class="mt-checkbox mt-checkbox-single mt-checkbox-outline">
+                                                            <input type="checkbox" class="checkboxes" value="1" />
+                                                            <span></span>
+                                                        </label>
+                                                    </td>
+                                                    <td>
+                                                        <a href="app_ticket_details.html">1371</a>
+                                                    </td>
+                                                    <td>
+                                                        <a href="app_ticket_details.html">Counter skipping numbers</a>
+                                                    </td>
+                                                    <td> Daniel </td>
+                                                    <td>
+                                                        <a href="mailto:customer@gmail.com"> customer@gmail.com </a>
+                                                    </td>
+                                                    <td class="center"> 10/12/15 1:45pm </td>
+                                                    <td> Marcus Doe </td>
+                                                    <td>
+                                                        <span class="label label-sm label-default"> Pending </span>
+                                                    </td>
+                                                </tr>
+                                                <tr class="odd gradeX">
+                                                    <td>
+                                                        <label class="mt-checkbox mt-checkbox-single mt-checkbox-outline">
+                                                            <input type="checkbox" class="checkboxes" value="1" />
+                                                            <span></span>
+                                                        </label>
+                                                    </td>
+                                                    <td>
+                                                        <a href="app_ticket_details.html">1373</a>
+                                                    </td>
+                                                    <td>
+                                                        <a href="app_ticket_details.html">Menu not working</a>
+                                                    </td>
+                                                    <td> Billy </td>
+                                                    <td>
+                                                        <a href="mailto:customer@gmail.com"> customer@gmail.com </a>
+                                                    </td>
+                                                    <td class="center"> 10/12/15 1:45pm </td>
+                                                    <td> Hugh Jackman </td>
+                                                    <td>
+                                                        <span class="label label-sm label-success"> Completed </span>
+                                                    </td>
+                                                </tr>
+                                            </tbody>
+                                        </table>
+
+                                    </div>
+                                </div>
+                                <div class="tab-pane" id="tab_2">
+                                    <div class="form-body">
+                                        <div class="form-group">
+                                            <label class="col-md-2 control-label">Meta Title:</label>
+                                            <div class="col-md-10">
+                                                <input type="text" class="form-control maxlength-handler" name="product[meta_title]" maxlength="100" placeholder="">
+                                                <span class="help-block"> max 100 chars </span>
+                                            </div>
+                                        </div>
+                                        <div class="form-group">
+                                            <label class="col-md-2 control-label">Meta Keywords:</label>
+                                            <div class="col-md-10">
+                                                <textarea class="form-control maxlength-handler" rows="8" name="product[meta_keywords]" maxlength="1000"></textarea>
+                                                <span class="help-block"> max 1000 chars </span>
+                                            </div>
+                                        </div>
+                                        <div class="form-group">
+                                            <label class="col-md-2 control-label">Meta Description:</label>
+                                            <div class="col-md-10">
+                                                <textarea class="form-control maxlength-handler" rows="8" name="product[meta_description]" maxlength="255"></textarea>
+                                                <span class="help-block"> max 255 chars </span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </form>
+        </div>
+    </div>

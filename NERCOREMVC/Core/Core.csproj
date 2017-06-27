@@ -1,0 +1,34 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp1.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="ServiceStack.Admin.Core" Version="1.0.43" />
+    <PackageReference Include="ServiceStack.Api.Swagger.Core" Version="1.0.43" />
+    <PackageReference Include="ServiceStack.Aws.Core" Version="1.0.43" />
+    <PackageReference Include="ServiceStack.Client.Core" Version="1.0.43" />
+    <PackageReference Include="ServiceStack.Common.Core" Version="1.0.43" />
+    <PackageReference Include="ServiceStack.Core" Version="1.0.43" />
+    <PackageReference Include="ServiceStack.HttpClient.Core" Version="1.0.43" />
+    <PackageReference Include="ServiceStack.Interfaces.Core" Version="1.0.43" />
+    <PackageReference Include="ServiceStack.Kestrel" Version="1.0.43" />
+    <PackageReference Include="ServiceStack.Mvc.Core" Version="1.0.43" />
+    <PackageReference Include="ServiceStack.OrmLite.Core" Version="1.0.43" />
+    <PackageReference Include="ServiceStack.OrmLite.PostgreSQL.Core" Version="1.0.43" />
+    <PackageReference Include="ServiceStack.OrmLite.Sqlite.Core" Version="1.0.43" />
+    <PackageReference Include="ServiceStack.OrmLite.SqlServer.Core" Version="1.0.43" />
+    <PackageReference Include="ServiceStack.ProtoBuf.Core" Version="1.0.43" />
+    <PackageReference Include="ServiceStack.RabbitMq.Core" Version="1.0.43" />
+    <PackageReference Include="ServiceStack.Redis.Core" Version="1.0.43" />
+    <PackageReference Include="ServiceStack.Server.Core" Version="1.0.43" />
+    <PackageReference Include="ServiceStack.Stripe.Core" Version="1.0.43" />
+    <PackageReference Include="ServiceStack.Text.Core" Version="1.0.43" />
+    <PackageReference Include="ServiceStack.Wire.Core" Version="1.0.43" />
+    <PackageReference Include="System.Data.Common" Version="4.3.0" />
+    <PackageReference Include="System.Data.SqlClient" Version="4.3.1" />
+    <PackageReference Include="System.Runtime" Version="4.3.0" />
+  </ItemGroup>
+
+</Project>

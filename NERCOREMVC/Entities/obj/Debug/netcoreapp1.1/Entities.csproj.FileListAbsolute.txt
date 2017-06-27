@@ -1,0 +1,9 @@
+c:\users\duong\documents\visual studio 2017\Projects\NERCOREMVC\Entities\bin\Debug\netcoreapp1.1\Entities.deps.json
+c:\users\duong\documents\visual studio 2017\Projects\NERCOREMVC\Entities\bin\Debug\netcoreapp1.1\Core.dll
+c:\users\duong\documents\visual studio 2017\Projects\NERCOREMVC\Entities\obj\Debug\netcoreapp1.1\Entities.AssemblyInfo.cs
+C:\Users\DUONG\documents\visual studio 2017\Projects\NERCOREMVC\Entities\obj\Debug\netcoreapp1.1\Entities.csprojResolveAssemblyReference.cache
+C:\Users\DUONG\documents\visual studio 2017\Projects\NERCOREMVC\Entities\bin\Debug\netcoreapp1.1\Entities.dll
+C:\Users\DUONG\documents\visual studio 2017\Projects\NERCOREMVC\Entities\bin\Debug\netcoreapp1.1\Entities.pdb
+C:\Users\DUONG\documents\visual studio 2017\Projects\NERCOREMVC\Entities\bin\Debug\netcoreapp1.1\Core.pdb
+C:\Users\DUONG\documents\visual studio 2017\Projects\NERCOREMVC\Entities\obj\Debug\netcoreapp1.1\Entities.dll
+C:\Users\DUONG\documents\visual studio 2017\Projects\NERCOREMVC\Entities\obj\Debug\netcoreapp1.1\Entities.pdb
