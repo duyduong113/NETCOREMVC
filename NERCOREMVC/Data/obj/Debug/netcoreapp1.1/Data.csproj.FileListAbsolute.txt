@@ -9,3 +9,14 @@ C:\Users\DUONG\documents\visual studio 2017\Projects\NERCOREMVC\Data\bin\Debug\n
 C:\Users\DUONG\documents\visual studio 2017\Projects\NERCOREMVC\Data\bin\Debug\netcoreapp1.1\Entities.pdb
 C:\Users\DUONG\documents\visual studio 2017\Projects\NERCOREMVC\Data\obj\Debug\netcoreapp1.1\Data.dll
 C:\Users\DUONG\documents\visual studio 2017\Projects\NERCOREMVC\Data\obj\Debug\netcoreapp1.1\Data.pdb
+D:\GIT\ASPNETCOREMVC\NERCOREMVC\Data\bin\Debug\netcoreapp1.1\Data.deps.json
+D:\GIT\ASPNETCOREMVC\NERCOREMVC\Data\bin\Debug\netcoreapp1.1\Data.dll
+D:\GIT\ASPNETCOREMVC\NERCOREMVC\Data\bin\Debug\netcoreapp1.1\Data.pdb
+D:\GIT\ASPNETCOREMVC\NERCOREMVC\Data\bin\Debug\netcoreapp1.1\Core.dll
+D:\GIT\ASPNETCOREMVC\NERCOREMVC\Data\bin\Debug\netcoreapp1.1\Entities.dll
+D:\GIT\ASPNETCOREMVC\NERCOREMVC\Data\bin\Debug\netcoreapp1.1\Core.pdb
+D:\GIT\ASPNETCOREMVC\NERCOREMVC\Data\bin\Debug\netcoreapp1.1\Entities.pdb
+D:\GIT\ASPNETCOREMVC\NERCOREMVC\Data\obj\Debug\netcoreapp1.1\Data.csprojResolveAssemblyReference.cache
+D:\GIT\ASPNETCOREMVC\NERCOREMVC\Data\obj\Debug\netcoreapp1.1\Data.AssemblyInfo.cs
+D:\GIT\ASPNETCOREMVC\NERCOREMVC\Data\obj\Debug\netcoreapp1.1\Data.dll
+D:\GIT\ASPNETCOREMVC\NERCOREMVC\Data\obj\Debug\netcoreapp1.1\Data.pdb

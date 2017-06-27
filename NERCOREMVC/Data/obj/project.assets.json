@@ -11426,10 +11426,10 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\DUONG\\documents\\visual studio 2017\\Projects\\NERCOREMVC\\Data\\Data.csproj",
+      "projectUniqueName": "D:\\GIT\\ASPNETCOREMVC\\NERCOREMVC\\Data\\Data.csproj",
       "projectName": "Data",
-      "projectPath": "C:\\Users\\DUONG\\documents\\visual studio 2017\\Projects\\NERCOREMVC\\Data\\Data.csproj",
-      "outputPath": "C:\\Users\\DUONG\\documents\\visual studio 2017\\Projects\\NERCOREMVC\\Data\\obj\\",
+      "projectPath": "D:\\GIT\\ASPNETCOREMVC\\NERCOREMVC\\Data\\Data.csproj",
+      "outputPath": "D:\\GIT\\ASPNETCOREMVC\\NERCOREMVC\\Data\\obj\\",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netcoreapp1.1"
@@ -11437,11 +11437,11 @@
       "frameworks": {
         "netcoreapp1.1": {
           "projectReferences": {
-            "C:\\Users\\DUONG\\documents\\visual studio 2017\\Projects\\NERCOREMVC\\Core\\Core.csproj": {
-              "projectPath": "C:\\Users\\DUONG\\documents\\visual studio 2017\\Projects\\NERCOREMVC\\Core\\Core.csproj"
+            "D:\\GIT\\ASPNETCOREMVC\\NERCOREMVC\\Core\\Core.csproj": {
+              "projectPath": "D:\\GIT\\ASPNETCOREMVC\\NERCOREMVC\\Core\\Core.csproj"
             },
-            "C:\\Users\\DUONG\\documents\\visual studio 2017\\Projects\\NERCOREMVC\\Entities\\Entities.csproj": {
-              "projectPath": "C:\\Users\\DUONG\\documents\\visual studio 2017\\Projects\\NERCOREMVC\\Entities\\Entities.csproj"
+            "D:\\GIT\\ASPNETCOREMVC\\NERCOREMVC\\Entities\\Entities.csproj": {
+              "projectPath": "D:\\GIT\\ASPNETCOREMVC\\NERCOREMVC\\Entities\\Entities.csproj"
             }
           }
         }

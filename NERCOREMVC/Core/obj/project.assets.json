@@ -11351,10 +11351,10 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\DUONG\\documents\\visual studio 2017\\Projects\\NERCOREMVC\\Core\\Core.csproj",
+      "projectUniqueName": "D:\\GIT\\ASPNETCOREMVC\\NERCOREMVC\\Core\\Core.csproj",
       "projectName": "Core",
-      "projectPath": "C:\\Users\\DUONG\\documents\\visual studio 2017\\Projects\\NERCOREMVC\\Core\\Core.csproj",
-      "outputPath": "C:\\Users\\DUONG\\documents\\visual studio 2017\\Projects\\NERCOREMVC\\Core\\obj\\",
+      "projectPath": "D:\\GIT\\ASPNETCOREMVC\\NERCOREMVC\\Core\\Core.csproj",
+      "outputPath": "D:\\GIT\\ASPNETCOREMVC\\NERCOREMVC\\Core\\obj\\",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netcoreapp1.1"

@@ -7,3 +7,12 @@ C:\Users\DUONG\documents\visual studio 2017\Projects\NERCOREMVC\Entities\bin\Deb
 C:\Users\DUONG\documents\visual studio 2017\Projects\NERCOREMVC\Entities\bin\Debug\netcoreapp1.1\Core.pdb
 C:\Users\DUONG\documents\visual studio 2017\Projects\NERCOREMVC\Entities\obj\Debug\netcoreapp1.1\Entities.dll
 C:\Users\DUONG\documents\visual studio 2017\Projects\NERCOREMVC\Entities\obj\Debug\netcoreapp1.1\Entities.pdb
+D:\GIT\ASPNETCOREMVC\NERCOREMVC\Entities\bin\Debug\netcoreapp1.1\Entities.deps.json
+D:\GIT\ASPNETCOREMVC\NERCOREMVC\Entities\bin\Debug\netcoreapp1.1\Entities.dll
+D:\GIT\ASPNETCOREMVC\NERCOREMVC\Entities\bin\Debug\netcoreapp1.1\Entities.pdb
+D:\GIT\ASPNETCOREMVC\NERCOREMVC\Entities\bin\Debug\netcoreapp1.1\Core.dll
+D:\GIT\ASPNETCOREMVC\NERCOREMVC\Entities\bin\Debug\netcoreapp1.1\Core.pdb
+D:\GIT\ASPNETCOREMVC\NERCOREMVC\Entities\obj\Debug\netcoreapp1.1\Entities.csprojResolveAssemblyReference.cache
+D:\GIT\ASPNETCOREMVC\NERCOREMVC\Entities\obj\Debug\netcoreapp1.1\Entities.AssemblyInfo.cs
+D:\GIT\ASPNETCOREMVC\NERCOREMVC\Entities\obj\Debug\netcoreapp1.1\Entities.dll
+D:\GIT\ASPNETCOREMVC\NERCOREMVC\Entities\obj\Debug\netcoreapp1.1\Entities.pdb

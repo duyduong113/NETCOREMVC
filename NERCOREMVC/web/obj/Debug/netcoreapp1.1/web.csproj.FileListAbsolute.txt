@@ -13,3 +13,18 @@ C:\Users\DUONG\documents\visual studio 2017\Projects\NERCOREMVC\web\bin\Debug\ne
 C:\Users\DUONG\documents\visual studio 2017\Projects\NERCOREMVC\web\bin\Debug\netcoreapp1.1\Core.pdb
 C:\Users\DUONG\documents\visual studio 2017\Projects\NERCOREMVC\web\bin\Debug\netcoreapp1.1\Data.pdb
 C:\Users\DUONG\documents\visual studio 2017\Projects\NERCOREMVC\web\bin\Debug\netcoreapp1.1\Entities.pdb
+D:\GIT\ASPNETCOREMVC\NERCOREMVC\web\bin\Debug\netcoreapp1.1\web.deps.json
+D:\GIT\ASPNETCOREMVC\NERCOREMVC\web\bin\Debug\netcoreapp1.1\web.runtimeconfig.json
+D:\GIT\ASPNETCOREMVC\NERCOREMVC\web\bin\Debug\netcoreapp1.1\web.runtimeconfig.dev.json
+D:\GIT\ASPNETCOREMVC\NERCOREMVC\web\bin\Debug\netcoreapp1.1\web.dll
+D:\GIT\ASPNETCOREMVC\NERCOREMVC\web\bin\Debug\netcoreapp1.1\web.pdb
+D:\GIT\ASPNETCOREMVC\NERCOREMVC\web\bin\Debug\netcoreapp1.1\Core.dll
+D:\GIT\ASPNETCOREMVC\NERCOREMVC\web\bin\Debug\netcoreapp1.1\Data.dll
+D:\GIT\ASPNETCOREMVC\NERCOREMVC\web\bin\Debug\netcoreapp1.1\Entities.dll
+D:\GIT\ASPNETCOREMVC\NERCOREMVC\web\bin\Debug\netcoreapp1.1\Core.pdb
+D:\GIT\ASPNETCOREMVC\NERCOREMVC\web\bin\Debug\netcoreapp1.1\Data.pdb
+D:\GIT\ASPNETCOREMVC\NERCOREMVC\web\bin\Debug\netcoreapp1.1\Entities.pdb
+D:\GIT\ASPNETCOREMVC\NERCOREMVC\web\obj\Debug\netcoreapp1.1\web.csprojResolveAssemblyReference.cache
+D:\GIT\ASPNETCOREMVC\NERCOREMVC\web\obj\Debug\netcoreapp1.1\web.AssemblyInfo.cs
+D:\GIT\ASPNETCOREMVC\NERCOREMVC\web\obj\Debug\netcoreapp1.1\web.dll
+D:\GIT\ASPNETCOREMVC\NERCOREMVC\web\obj\Debug\netcoreapp1.1\web.pdb

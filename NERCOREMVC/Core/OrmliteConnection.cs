@@ -10,7 +10,7 @@ namespace Core
     {
         public IDbConnection openConn()
         {
-            var dbFactory = new OrmLiteConnectionFactory("Data Source=(local);Initial Catalog=NETCOREMVC;Integrated Security=True", SqlServerDialect.Provider);
+            var dbFactory = new OrmLiteConnectionFactory("Data Source=(local);Initial Catalog=NETMVC;Integrated Security=True", SqlServerDialect.Provider);
             IDbConnection dbConn = dbFactory.OpenDbConnection();
             return dbConn;
         }

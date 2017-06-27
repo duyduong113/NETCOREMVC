@@ -5,3 +5,10 @@ C:\Users\DUONG\documents\visual studio 2017\Projects\NERCOREMVC\Core\obj\Debug\n
 C:\Users\DUONG\documents\visual studio 2017\Projects\NERCOREMVC\Core\bin\Debug\netcoreapp1.1\Core.pdb
 C:\Users\DUONG\documents\visual studio 2017\Projects\NERCOREMVC\Core\obj\Debug\netcoreapp1.1\Core.dll
 C:\Users\DUONG\documents\visual studio 2017\Projects\NERCOREMVC\Core\obj\Debug\netcoreapp1.1\Core.pdb
+D:\GIT\ASPNETCOREMVC\NERCOREMVC\Core\bin\Debug\netcoreapp1.1\Core.deps.json
+D:\GIT\ASPNETCOREMVC\NERCOREMVC\Core\bin\Debug\netcoreapp1.1\Core.dll
+D:\GIT\ASPNETCOREMVC\NERCOREMVC\Core\bin\Debug\netcoreapp1.1\Core.pdb
+D:\GIT\ASPNETCOREMVC\NERCOREMVC\Core\obj\Debug\netcoreapp1.1\Core.csprojResolveAssemblyReference.cache
+D:\GIT\ASPNETCOREMVC\NERCOREMVC\Core\obj\Debug\netcoreapp1.1\Core.AssemblyInfo.cs
+D:\GIT\ASPNETCOREMVC\NERCOREMVC\Core\obj\Debug\netcoreapp1.1\Core.dll
+D:\GIT\ASPNETCOREMVC\NERCOREMVC\Core\obj\Debug\netcoreapp1.1\Core.pdb

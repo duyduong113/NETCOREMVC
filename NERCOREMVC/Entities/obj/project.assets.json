@@ -11388,10 +11388,10 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\DUONG\\documents\\visual studio 2017\\Projects\\NERCOREMVC\\Entities\\Entities.csproj",
+      "projectUniqueName": "D:\\GIT\\ASPNETCOREMVC\\NERCOREMVC\\Entities\\Entities.csproj",
       "projectName": "Entities",
-      "projectPath": "C:\\Users\\DUONG\\documents\\visual studio 2017\\Projects\\NERCOREMVC\\Entities\\Entities.csproj",
-      "outputPath": "C:\\Users\\DUONG\\documents\\visual studio 2017\\Projects\\NERCOREMVC\\Entities\\obj\\",
+      "projectPath": "D:\\GIT\\ASPNETCOREMVC\\NERCOREMVC\\Entities\\Entities.csproj",
+      "outputPath": "D:\\GIT\\ASPNETCOREMVC\\NERCOREMVC\\Entities\\obj\\",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netcoreapp1.1"
@@ -11399,8 +11399,8 @@
       "frameworks": {
         "netcoreapp1.1": {
           "projectReferences": {
-            "C:\\Users\\DUONG\\documents\\visual studio 2017\\Projects\\NERCOREMVC\\Core\\Core.csproj": {
-              "projectPath": "C:\\Users\\DUONG\\documents\\visual studio 2017\\Projects\\NERCOREMVC\\Core\\Core.csproj"
+            "D:\\GIT\\ASPNETCOREMVC\\NERCOREMVC\\Core\\Core.csproj": {
+              "projectPath": "D:\\GIT\\ASPNETCOREMVC\\NERCOREMVC\\Core\\Core.csproj"
             }
           }
         }
